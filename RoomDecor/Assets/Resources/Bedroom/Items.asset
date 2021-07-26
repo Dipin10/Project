@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ae7c38a4c21c54daa384de1ba4ead4, type: 3}
+  m_Name: Items
+  m_EditorClassIdentifier: 
+  ItemName: PrethDoubleDresser
+  ItemDescription: PrethDoubleChestnut
+  ItemImage: {fileID: 2800000, guid: b3ebf1b337b61fc47bee8861e8472d7e, type: 3}
+  ItemModel: {fileID: 5277395150093890264, guid: 9852adb80c08d2346b53eda4dfe73e88, type: 3}

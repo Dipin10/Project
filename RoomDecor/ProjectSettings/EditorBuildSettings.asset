@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Wrapper.unity
+    guid: d968851130b5a954b930669a027f47a1
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 6120c92d01d2f1047b91c49e0eb5baa6
+  - enabled: 1
+    path: Assets/Scenes/Register.unity
+    guid: f880c87c7a2cc0444948dd4863a43076
+  - enabled: 1
+    path: Assets/Scenes/Browse.unity
+    guid: c3eedba22fb4a1c41b72a9fc1dc83474
+  - enabled: 1
+    path: Assets/Scenes/Livingroom.unity
+    guid: 41395d230cae5c049bd2e4880e3c645a
+  - enabled: 1
+    path: Assets/Scenes/Bedroom.unity
+    guid: 2c08861284b267744b2336910b230257
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 4f8c0f5e6f5999c408f7166aad505789
+  - enabled: 1
+    path: Assets/Scenes/MultipleARLivingroom.unity
+    guid: a51a7a744e27ba9468c307acbed3f147
+  - enabled: 1
+    path: Assets/Scenes/MultipleARBedroom.unity
+    guid: e65427451d5257a488abeb883f6bc8c4
+  - enabled: 1
+    path: Assets/Scenes/MultipleARKitchen.unity
+    guid: 263de9df083406a46813acf60d90dcda
+  - enabled: 1
+    path: Assets/Scenes/Gallery.unity
+    guid: 1a465c18371453a47979973da20ae305
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/BarTable.unity
+    guid: d59add01825c6d746af485d68d53a693
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/Bed.unity
+    guid: 3076e7329a78f7948bb5e274de5067ba
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/CoffeeTable.unity
+    guid: d33596f2090d14747bae8a54512e364f
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/DecorativeTable.unity
+    guid: 3c087c961e8bca545b20cafa0ae14844
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/DinningChair.unity
+    guid: 0d06569c5ba3ee24781d2a37ea06e6d0
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/Drawer.unity
+    guid: 95c63c85a9efb294e8105f8fdc819866
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/FutonSofa.unity
+    guid: 3ea61d5799f3e4644a271028591da478
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/GlassDesignTableLamp.unity
+    guid: d7df43feaee2c3548a8f68f474e2eda0
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/PrethDoubleDresser.unity
+    guid: 0f84ef7835e2d6b409e54083e7255e9b
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/RusticTable.unity
+    guid: 3dda484c816f3394ebb69d6c3696f4ba
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/SimpleTable.unity
+    guid: 4120aa145511b644d93520e0ab96747c
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/SoborgChair.unity
+    guid: 3a30d7644e2921b43894ec9c247ed509
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/TableSet.unity
+    guid: 6a5785731fdd04e409775b2206b45503
+  - enabled: 1
+    path: Assets/Scenes/SingleAR/TVStand.unity
+    guid: 2c9033251160ecd47ae49e57fed8cd78
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 2a9b49f3a6c920b4c840274465046a32, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 820082329950c4243979ae50232e82ef, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e54c9e6ee2ef98e488f3ccbbbaf87d5d, type: 2}
